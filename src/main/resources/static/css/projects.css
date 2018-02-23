@@ -1,0 +1,65 @@
+* {
+    vertical-align: baseline;
+    font-weight: inherit;
+    font-family: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    border: 0 none;
+    outline: 0;
+    padding: 0;
+    margin: 0;
+}
+
+#container {
+    width:999px;
+    height:738px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+
+h1 {
+    color: blue;
+    font-size:xx-large;
+    text-align:center;
+    margin-top:50px;
+}
+
+
+.project {
+    display:inline-block;
+    width: 300px;
+    margin-left:30px;
+    margin-top: 40px;
+}
+    img {
+        vertical-align:top;
+        margin-left:34px;
+    }
+        img:first-child {
+            margin-left:5px;
+        }
+        img:nth-child(2) {
+            margin-left:6px;
+        }
+        img:nth-child(3) {
+            margin-right:5px;
+        }
+
+    h2  {
+        text-align:center;
+        margin-top: 10px;
+        font-size: x-large;
+    }
+
+    p {
+        text-align:center;
+        margin-top: 10px;
+    }
+
+
+
+
+
+
+
